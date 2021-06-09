@@ -1,0 +1,173 @@
+[
+    {
+        "title": "Ms",
+        "firstName": "Jaideep45",
+        "lastName": "tanwar45",
+        "email": "tanwavinod831@gmail.com",
+        "role": "User",
+        "password": "123456",
+        "id": 3,
+        "dateCreated": "06/03/2021",
+        "dateUpdated": "2021-06-07T09:06:10.202Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep1",
+        "lastName": "tanwar1",
+        "email": "tanwavinod8311@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 4,
+        "dateCreated": "06/04/2021",
+        "dateUpdated": "2021-06-07T09:08:11.930Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep2",
+        "lastName": "tanwar2",
+        "email": "tanwavinod8312@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 5,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:08:38.443Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep3",
+        "lastName": "tanwar3",
+        "email": "tanwavinod8313@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 6,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:09:02.421Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep4",
+        "lastName": "tanwar4",
+        "email": "tanwavinod8314@gmail.comr",
+        "role": "Admin",
+        "password": "123456",
+        "id": 7,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:09:21.716Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep5",
+        "lastName": "tanwar5",
+        "email": "tanwavinod8315@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 8,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:09:43.119Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep6",
+        "lastName": "tanwar6",
+        "email": "tanwavinod8316@gmail.comr",
+        "role": "Admin",
+        "password": "123456",
+        "id": 9,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:10:56.227Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep7",
+        "lastName": "tanwar7",
+        "email": "tanwavinod8317@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 10,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:11:23.302Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep8",
+        "lastName": "tanwar8",
+        "email": "tanwavinod8318@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 11,
+        "dateCreated": "06/07/2021",
+        "dateUpdated": "2021-06-07T09:11:41.832Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "jaideep9",
+        "lastName": "tanwar9",
+        "email": "tanwavinod8319@gmail.comr",
+        "role": "User",
+        "password": "123456",
+        "id": 12,
+        "dateCreated": "06/01/2021",
+        "dateUpdated": "2021-06-07T09:12:05.162Z",
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "No",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "title": "Mr",
+        "firstName": "Tesing",
+        "lastName": "Test",
+        "email": "Test1215@gmail.com",
+        "role": "Admin",
+        "password": "123456",
+        "id": 13,
+        "dateCreated": "2021-06-08T06:52:54.483Z",
+        "dateUpdated": "2021-06-08T06:52:54.483Z"
+    }
+]
